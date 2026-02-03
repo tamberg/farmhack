@@ -2,7 +2,7 @@
 Open Farming Hackdays in Liebegg, AG
 
 ## 2026
-- [Challenge](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](https://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
+- [Challenge](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
 
 ## 2024
 - Challenge
