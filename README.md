@@ -8,6 +8,16 @@ Open Farming Hackdays in Liebegg, AG
 - Wi-Fi: ktag-public (Zugang via Portal)
 - Wi-Fi: MY_SSID, MY_PASSWORD (Hotspot)
 
+### Erni CatchME
+![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
+
+Designed before the Hackday by https://www.betterask.erni
+
+### Dochtglas Pi
+![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
+
+Designed by @tamberg, CC BY-SA 4.0
+
 ## 2024
 - [Challenge](https://hack.farming.opendata.ch/project/115) ([Slides](http://www.tamberg.org/farmhack/2024/OpenFarmingHackdays2024_MLCamera_Challenge.pdf))
 - [Results](http://www.tamberg.org/farmhack/2024/OpenFarmingHackdays2024_MLCamera_Results.pdf)
