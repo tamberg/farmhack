@@ -11,6 +11,13 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
 
 ### Result
+[Slides](TODO)
+
+- [Inform](#informme-hornissen-app)
+- [Warn](#warnme-auditive-detection)
+- [Catch](#catchme-erni-waspinator)
+- [Locate](#locateme-dochtglas-pi)
+
 #### InformME Hornissen App
 https://asiatische-hornissen.lovable.app
 
