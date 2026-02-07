@@ -18,6 +18,8 @@ Designed by https://www.betterask.erni before the Hackday
 ### Auditive Detection
 https://github.com/philippkueng/auditive_detection_of_asian_hornets
 
+[!https://github.com/philippkueng/auditive_detection_of_asian_hornets/blob/main/classification_result.png]
+
 Reproduced by Philipp Küng with Claude
 
 ### Dochtglas Pi
