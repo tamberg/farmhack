@@ -13,10 +13,10 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 ### Result
 [Slides](TODO)
 
-- [Inform](#hornissen-app)
-- [Warn](#auditive-detection)
-- [Catch](#erni-waspinator)
-- [Locate](#dochtglas-pi)
+- Inform [Hornissen App](#hornissen-app)
+- Warn [Auditive Detection](#auditive-detection)
+- Catch [Erni Waspinator](#erni-waspinator)
+- Locate [Dochtglas Pi](#dochtglas-pi)
 
 #### Hornissen App
 <img width="1191" height="961" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
