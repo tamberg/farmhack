@@ -23,7 +23,7 @@ Reproduced by Philipp Küng with Claude
 ### CatchME Erni Waspinator
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
-Designed by a team of [Erni](https://www.betterask.erni) before the hackdays
+Designed by [Erni](https://www.betterask.erni) before the hackdays
 
 ### LocateME Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
