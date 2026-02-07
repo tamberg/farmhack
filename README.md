@@ -11,15 +11,30 @@ Open Farming Hackdays in Liebegg, AG
 ### Hornissen App
 https://asiatische-hornissen.lovable.app
 
+Created by Stefan Bräm
+
 ### Erni CatchME
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
 Designed by https://www.betterask.erni before the Hackday
 
+### Auditive Detection
+https://github.com/philippkueng/auditive_detection_of_asian_hornets
+
+Reproduced by Philipp Küng with Claude
+
 ### Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
 
-Designed by @tamberg, CC BY-SA 4.0
+Designed by [@tamberg](https://github.com/tamberg), CC BY-SA 4.0
+
+- [DochtglasPi/GlassAdapter.scad](DochtglasPi/GlassAdapter.scad)
+- [DochtglasPi/SphereAdapter.scad](DochtglasPi/SphereAdapter.scad)
+- 1 * Spreewälder cucumber glass
+- 1 * Farmer Mineral PET bottle
+- 3 * zip ties, 300 x 4.8 x 1.5 mm
+- 2 * Pi Cam v2
+- 1 * Pi 5
 
 ## 2024
 - [Challenge](https://hack.farming.opendata.ch/project/115) ([Slides](http://www.tamberg.org/farmhack/2024/OpenFarmingHackdays2024_MLCamera_Challenge.pdf))
