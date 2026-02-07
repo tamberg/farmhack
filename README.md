@@ -8,10 +8,13 @@ Open Farming Hackdays in Liebegg, AG
 - Wi-Fi: ktag-public (Zugang via Portal)
 - Wi-Fi: MY_SSID, MY_PASSWORD (Hotspot)
 
+### Hornissen App
+https://asiatische-hornissen.lovable.app
+
 ### Erni CatchME
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
-Designed before the Hackday by https://www.betterask.erni
+Designed by https://www.betterask.erni before the Hackday
 
 ### Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
