@@ -8,7 +8,7 @@ Open Farming Hackdays in Liebegg, AG
 ### InformME Hornissen App
 https://asiatische-hornissen.lovable.app
 
-Created by Stefan Bräm
+Created by Stefan Bräm of [Erni](https://www.betterask.erni)
 
 ### WarnME Auditive Detection
 <img src="https://github.com/philippkueng/auditive_detection_of_asian_hornets/blob/main/classification_result.png" width="640"/>
@@ -20,7 +20,7 @@ Reproduced by Philipp Küng with Claude
 ### CatchME Erni Waspinator
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
-Designed by [Erni](https://www.betterask.erni) before the Hackday
+Designed by a team of [Erni](https://www.betterask.erni) before the hackdays
 
 ### LocateME Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
