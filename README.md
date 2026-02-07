@@ -6,7 +6,7 @@ Open Farming Hackdays in Liebegg, AG
 - [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
 
 ### Team
-Mischa, Philipp, Roger, Sara, Stefan, ..., @tamberg
+Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, @tamberg
 
 ### InformME Hornissen App
 https://asiatische-hornissen.lovable.app
