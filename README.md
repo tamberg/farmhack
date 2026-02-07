@@ -30,8 +30,10 @@ Designed by [Erni](https://www.betterask.erni) before the hackdays
 
 Designed by [@tamberg](https://github.com/tamberg), CC BY-SA 4.0
 
-- [GlassAdapter.scad](2026/DochtglasPi/GlassAdapter.scad)
-- [SphereAdapter.scad](2026/DochtglasPi/SphereAdapter.scad)
+- 2 * [GlassAdapterCollar.stl](2026/DochtglasPi/GlassAdapterCollar.stl)
+- 2 * [GlassAdapterCrown.stl](2026/DochtglasPi/GlassAdapterCrown.stl)
+- 2 * [SphereAdapterBase.stl](2026/DochtglasPi/SphereAdapterBase.stl)
+- 2 * [SphereAdapter.stl](2026/DochtglasPi/SphereAdapter.stl)
 - 1 * Spreewälder cucumber glass
 - 1 * Farmer Mineral PET bottle
 - 3 * zip ties, 300 x 4.8 x 1.5 mm
