@@ -2,28 +2,28 @@
 Open Farming Hackdays in Liebegg, AG
 
 ## 2026
-- [Challenge](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
-- [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
+### Challenge
+[System zur Ortung invasiver Hornissen](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
 
 ### Team
-Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, @tamberg
+Contributions by Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamberg, all on [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
 
 ### InformME Hornissen App
 https://asiatische-hornissen.lovable.app
 
-Created by Stefan Bräm of [Erni](https://www.betterask.erni)
+Created by Stefan of [Erni](https://www.betterask.erni)
 
 ### WarnME Auditive Detection
 <img src="https://github.com/philippkueng/auditive_detection_of_asian_hornets/blob/main/classification_result.png" width="640"/>
 
 https://github.com/philippkueng/auditive_detection_of_asian_hornets
 
-Reproduced by Philipp Küng with Claude
+Reproduced by Philipp (with Claude).
 
 ### CatchME Erni Waspinator
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
-Designed by [Erni](https://www.betterask.erni) before the hackdays
+Designed by Dario, Dietmar, Krisztian of [Erni](https://www.betterask.erni) before the hackdays
 
 ### LocateME Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
