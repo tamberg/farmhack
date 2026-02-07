@@ -6,9 +6,8 @@ Open Farming Hackdays in Liebegg, AG
 [System zur Ortung invasiver Hornissen](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
 
 ### Team
-Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamberg
-
 [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
+, Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamberg
 
 ### Result
 [Slides](2026/ResultatTeam13.pdf)
