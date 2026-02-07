@@ -4,9 +4,6 @@ Open Farming Hackdays in Liebegg, AG
 ## 2026
 - [Challenge](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
 - [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13 ([Invite](https://discord.gg/2CwJSca7))
-- Raum Nr. 2 im Hauptgebäude
-- Wi-Fi: ktag-public (Zugang via Portal)
-- Wi-Fi: MY_SSID, MY_PASSWORD (Hotspot)
 
 ### Hornissen App
 https://asiatische-hornissen.lovable.app
@@ -28,14 +25,14 @@ Reproduced by Philipp Küng with Claude
 
 Designed by [@tamberg](https://github.com/tamberg), CC BY-SA 4.0
 
-- [DochtglasPi/GlassAdapter.scad](DochtglasPi/GlassAdapter.scad)
-- [DochtglasPi/SphereAdapter.scad](DochtglasPi/SphereAdapter.scad)
+- [GlassAdapter.scad](2026/DochtglasPi/GlassAdapter.scad)
+- [SphereAdapter.scad](2026/DochtglasPi/SphereAdapter.scad)
 - 1 * Spreewälder cucumber glass
 - 1 * Farmer Mineral PET bottle
 - 3 * zip ties, 300 x 4.8 x 1.5 mm
 - 2 * Pi Cam v2
 - 1 * Pi 5
-
+https://github.com/tamberg/farmhack/tree/main/2026/DochtglasPi
 ## 2024
 - [Challenge](https://hack.farming.opendata.ch/project/115) ([Slides](http://www.tamberg.org/farmhack/2024/OpenFarmingHackdays2024_MLCamera_Challenge.pdf))
 - [Results](http://www.tamberg.org/farmhack/2024/OpenFarmingHackdays2024_MLCamera_Results.pdf)
