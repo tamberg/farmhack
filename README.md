@@ -16,9 +16,9 @@ Created by Stefan Bräm
 Designed by https://www.betterask.erni before the Hackday
 
 ### Auditive Detection
-https://github.com/philippkueng/auditive_detection_of_asian_hornets
-
 <img src="https://github.com/philippkueng/auditive_detection_of_asian_hornets/blob/main/classification_result.png" width="640"/>
+
+https://github.com/philippkueng/auditive_detection_of_asian_hornets
 
 Reproduced by Philipp Küng with Claude
 
