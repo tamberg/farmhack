@@ -19,7 +19,7 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 - [Dochtglas Pi](#dochtglas-pi) (Locate)
 
 #### Hornissen App
-<img width="1191" height="961" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
+<img width="640" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
 
 [https://asiatische-hornissen.lovable.app](https://asiatische-hornissen.lovable.app), created by Stefan of [Erni](https://www.betterask.erni) (with Lovable).
 
