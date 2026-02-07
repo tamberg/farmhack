@@ -11,7 +11,7 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 [Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
 
 ### Result
-[Slides](TODO)
+[Slides](2026/ResultatTeam13.pdf)
 
 - [Hornissen App](#hornissen-app) (Inform)
 - [Auditive Detection](#auditive-detection) (Warn)
