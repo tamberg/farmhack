@@ -19,9 +19,9 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 - [Locate](#locateme-dochtglas-pi)
 
 #### InformME Hornissen App
-https://asiatische-hornissen.lovable.app
+<img width="1191" height="961" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
 
-Created by Stefan of [Erni](https://www.betterask.erni)
+[https://asiatische-hornissen.lovable.app](https://asiatische-hornissen.lovable.app), created by Stefan of [Erni](https://www.betterask.erni) (with Lovable).
 
 #### WarnME Auditive Detection
 <img src="https://github.com/philippkueng/auditive_detection_of_asian_hornets/blob/main/classification_result.png" width="640"/>
@@ -33,7 +33,7 @@ Reproduced by Philipp (with Claude).
 #### CatchME Erni Waspinator
 ![erni-catchme](https://github.com/user-attachments/assets/80bcc05a-603e-47b1-a3de-1bb2fd8d5081)
 
-Designed by Dario, Dietmar, Krisztian of [Erni](https://www.betterask.erni) before the hackdays
+Designed by Dario, Dietmar, Krisztian, Stefan and Stefan of [Erni](https://www.betterask.erni), before the hackdays.
 
 #### LocateME Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
