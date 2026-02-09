@@ -52,7 +52,7 @@ Designed by [@tamberg](https://github.com/tamberg), CC BY-SA 4.0
 - 2 * [GlassAdapterCollar.stl](2026/DochtglasPi/GlassAdapterCollar.stl)
 - 2 * [GlassAdapterCrown.stl](2026/DochtglasPi/GlassAdapterCrown.stl)
 - 2 * [SphereAdapterBase.stl](2026/DochtglasPi/SphereAdapterBase.stl)
-- 2 * [SphereAdapter.stl](2026/DochtglasPi/SphereAdapter.stl)
+- 2 * [SphereAdapterRing.stl](2026/DochtglasPi/SphereAdapterRing.stl)
 - 1 * Spreewälder cucumber 670g glass
 - 1 * Farmer Mineral PET bottle
 - 3 * zip ties, 300 x 4.8 x 1.5 mm
