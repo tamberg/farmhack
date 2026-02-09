@@ -1,5 +1,5 @@
 # Open Farming Hackdays
-Open Farming Hackdays in Liebegg, AG
+[Open Farming Hackdays](https://www.farming-hackdays.ch) in Liebegg, AG
 
 ## 2026
 ### Challenge
