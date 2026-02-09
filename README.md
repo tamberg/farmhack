@@ -3,15 +3,24 @@ Open Farming Hackdays in Liebegg, AG
 
 ## 2026
 ### Challenge
-[System zur Ortung invasiver Hornissen](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf))
+[System zur Ortung invasiver Hornissen](https://www.farming-hackdays.ch/challenges/system-zur-ortung-invasiver-hornissen) challenge ([Slides](http://www.tamberg.org/farmhack/2026/OpenFarmingHackdays2026_HornissenOrtung.pdf)) by [@tamberg](https://github.com/tamberg).
 
 ### Team
-Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamberg
+[Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13, in alphabetical order
 
-[Dischord](https://discord.com/channels/1438113192424509450/1438113192927690786) #team13
+- Dario
+- Dietmar
+- Krisztian
+- Mischa
+- Philipp
+- Roger
+- Sara
+- Stefan
+- Stefan
+- [@tamberg](https://github.com/tamberg)
 
 ### Result
-[Slides](TODO)
+[Resultat #team13](2026/ResultatTeam13.pdf) slides.
 
 - [Hornissen App](#hornissen-app) (Inform)
 - [Auditive Detection](#auditive-detection) (Warn)
@@ -19,7 +28,7 @@ Dario, Dietmar, Krisztian, Mischa, Philipp, Roger, Sara, Stefan, Stefan, @tamber
 - [Dochtglas Pi](#dochtglas-pi) (Locate)
 
 #### Hornissen App
-<img width="1191" height="961" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
+<img width="640" alt="hornissen-app" src="https://github.com/user-attachments/assets/321ef7f4-ecc2-4b08-a67a-c6401646b57a" />
 
 [https://asiatische-hornissen.lovable.app](https://asiatische-hornissen.lovable.app), created by Stefan of [Erni](https://www.betterask.erni) (with Lovable).
 
@@ -44,7 +53,7 @@ Designed by [@tamberg](https://github.com/tamberg), CC BY-SA 4.0
 - 2 * [GlassAdapterCrown.stl](2026/DochtglasPi/GlassAdapterCrown.stl)
 - 2 * [SphereAdapterBase.stl](2026/DochtglasPi/SphereAdapterBase.stl)
 - 2 * [SphereAdapter.stl](2026/DochtglasPi/SphereAdapter.stl)
-- 1 * Spreewälder cucumber glass
+- 1 * Spreewälder cucumber 670g glass
 - 1 * Farmer Mineral PET bottle
 - 3 * zip ties, 300 x 4.8 x 1.5 mm
 - 2 * Pi Cam v2
