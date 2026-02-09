@@ -45,7 +45,6 @@ module clamp(h, w, r, a) {
 
 module collar(h, w, r) {
   union() {
-//    translate([0, 0, 0]) clamp(h, w, r, 260);  
     translate([0, 0, 0]) clamp(h, w, r, 340);
     rotate([0, 0, 60]) translate([r + 1, -wy_eyelet / 2, 0]) eyelet(3);
     rotate([0, 0, 180]) translate([r + 1, -wy_eyelet / 2, 0]) eyelet(3);
@@ -53,20 +52,5 @@ module collar(h, w, r) {
   }
 }
 
-module cover(ro, ri, h) {
-  difference() {
-    union() {
-      cylinder(h, ro + d, ro + d);
-      translate([0, 0, 1]) cylinder(16, ri, ri);
-    }
-//#    translate([ri - (wx_ziptie + 2 * d)), 0]) ziptie(16);
-  }
-}
-
-//translate([0, 0, 60]) rotate([0, 0, 60]) crown(15 + d, 15, d);
-//collar(2, 3, 78/2);
-//collar(3, 3, 78/2);
-
-crown(15 + d, 15, d);
-
-//cover(81, 70, d);
+translate([0, 0, 60]) rotate([0, 0, 60]) crown(15 + d, 15, d);
+collar(3, 3, 78/2);
