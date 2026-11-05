@@ -54,6 +54,8 @@ Reproduced by Philipp (with Claude).
 
 Designed by Dario, Dietmar, Krisztian, Stefan and Stefan of [Erni](https://www.betterask.erni), before the hackdays.
 
+https://github.com/gitDew/waspinator
+
 #### Dochtglas Pi
 ![dochtglas-pi](https://github.com/user-attachments/assets/f02b1699-64ab-4576-82b0-618a39ce9dba)
 
